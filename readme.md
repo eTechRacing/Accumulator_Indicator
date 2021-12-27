@@ -1,3 +1,3 @@
 initial commit
 
-some changes weeee
+updated acc ind readme
