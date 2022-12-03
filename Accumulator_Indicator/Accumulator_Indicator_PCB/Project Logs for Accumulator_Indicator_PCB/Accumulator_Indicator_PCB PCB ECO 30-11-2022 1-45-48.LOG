@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=TS+
+Change Component Designator: OldDesignator=J2 NewDesignator=TS-
+Change Component Designator: OldDesignator=J3 NewDesignator=LED
+Add Pin To Net: Unknown Pin: Pin Q1-B
+Add Pin To Net: Unknown Pin: Pin Q1-E
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetLED_1
+Added Pin To Net: NetName=NetLED_2 Pin=LED-2
+Added Net: Name=NetLED_2

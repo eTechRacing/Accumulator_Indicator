@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=DZ1 Old Footprint=DZ_24V_BZT52H-A24-Q New Footprint=DZ_24V_STD
+Change Component Footprint: Designator=DZ2 Old Footprint=DZ_24V_BZT52H-A24-Q New Footprint=DZ_24V_STD
+Add Pin To Net: Unknown Pin: Pin Q1-B
+Add Pin To Net: Unknown Pin: Pin Q1-E
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetQ1_B
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Net: Name=NetJ3_2
