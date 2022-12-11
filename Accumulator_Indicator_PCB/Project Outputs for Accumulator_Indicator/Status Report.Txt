@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Accumulator_Indicator.PcbDoc]
+   Generated File[Accumulator_Indicator.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:04:01 On 11/12/2022
