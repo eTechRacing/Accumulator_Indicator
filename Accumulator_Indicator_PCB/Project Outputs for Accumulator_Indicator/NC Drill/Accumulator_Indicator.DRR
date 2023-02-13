@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Accumulator_Indicator.PcbDoc   11/12/2022  3:04:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Accumulator_Indicator.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.8mm (31mil)                                             Round             4         PTH        17.30mm (0.68inch)
+T2      1.02mm (40mil)                                            Round             6         PTH        41.45mm (1.63inch)
+T3      1.15mm (45mil)                                            Round             14        PTH        139.30mm (5.48inch)
+T4      1.5mm (59mil)                                             Round             6         PTH        47.42mm (1.87inch)
+T5      3.2mm (126mil)                                            Round             4         PTH        132.00mm (5.20inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+
+Total Processing Time (hh:mm:ss) : 00:00:00
